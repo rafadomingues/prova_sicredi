@@ -1,7 +1,0 @@
-sicredi\utils\BrowserUtils.class
-sicredi\appobjects\homepage\HomePageAppObject.class
-sicredi\testcases\CadastroClienteTestCase.class
-sicredi\testcases\ExclusaoClienteTestCase.class
-sicredi\tasks\cliente\AdicionarClienteTask.class
-sicredi\tasks\homepage\HomePageTask.class
-sicredi\appobjects\cliente\CadastroClienteAppObject.class
